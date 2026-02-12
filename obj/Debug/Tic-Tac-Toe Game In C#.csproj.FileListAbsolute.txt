@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\bin\Debug\Tic-Tac-Toe Game In C#.exe.config
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\bin\Debug\Tic-Tac-Toe Game In C#.exe
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\bin\Debug\Tic-Tac-Toe Game In C#.pdb
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic-Tac-Toe Game In C#.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic_Tac_Toe_Game_In_C_.Form1.resources
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic_Tac_Toe_Game_In_C_.Properties.Resources.resources
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic-Tac-Toe Game In C#.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic-Tac-Toe Game In C#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic-Tac-Toe Game In C#.exe
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic-Tac-Toe Game In C#.pdb
+C:\Users\DELL\Desktop\14-C# Level1 Peojects\Tic-Tac-Toe Game In C#\obj\Debug\Tic-Tac-Toe Game In C#.exe.config
